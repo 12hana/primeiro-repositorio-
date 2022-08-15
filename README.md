@@ -1,4 +1,8 @@
 # primeiro-repositorio-
-...
-<HTML
-...
+
+para copiar o codigo em html
+```
+<html>
+<h1>meu primeiro arquivo </h1> 
+<HTML>
+```
